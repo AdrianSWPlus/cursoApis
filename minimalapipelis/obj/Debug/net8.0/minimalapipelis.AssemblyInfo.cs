@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minimalapipelis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbafacc17e7d8ffd05e191a0237d4e6613ea7bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8515d340d94ae493c109d17d4aeaa5153ce398fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("minimalapipelis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minimalapipelis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
